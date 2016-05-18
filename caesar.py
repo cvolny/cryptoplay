@@ -5,7 +5,7 @@ START = ord('A')
 END = ord('Z')
 ALPHABET = list(map(chr, range(START, END+1)))
 LENGTH = len(ALPHABET)
-DICTIONARY = ['THE', 'AND', 'FOR', 'ARE', 'BUT', 'NOT', 'YOU', 'ALL', 'ANY', 'HER', 'HIM']
+DICTIONARY = ['HELLO', 'THE', 'AND', 'FOR', 'ARE', 'BUT', 'NOT', 'YOU', 'ALL', 'ANY', 'HER', 'HIM']
 FREQUENCIES = 'ETAOINSHRDLCUMWFGYPBVKJXQZ'
 
 
